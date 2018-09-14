@@ -1,2 +1,5 @@
 # python_tricks
-Easy Python Tricks
+
+
+
+Simple Python tricks based on List.
